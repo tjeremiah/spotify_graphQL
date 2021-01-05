@@ -1,5 +1,4 @@
-{
-  "name": "spotifyapi_graphql",
+{ "name": "spotifyapi_graphql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
